@@ -27,4 +27,4 @@ async def on_message(message):
         quote = get_quote()
         await message.channel.send(quote)
 
-client.run('ODE2MDExMjI4MDE4OTAxMDUy.YD0vrQ.VTSF1ZwbJU6A5Rh5vFQ0_HXDvtI')
+client.run('') # enter token of the bot here 
